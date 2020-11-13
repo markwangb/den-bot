@@ -118,7 +118,7 @@ The following is what `%showconf` would look like after performing each of the a
 * [Follow](https://app.gitkraken.com/glo/board/XjQu3nV7egARKaLs) Alcremie-B's progress and updates on its Gitkraken Glo Board!
 
 ## Credits
-* Many thanks to everyone listed below as without them this bot wouldn't be possible:
+* Many thanks to everyone listed below as without them this bot wouldn't be possible
 - * [Serebii](https://Serebii.net) & [Bulbapedia](https://bulbapedia.bulbagarden.net/) for their mass wealth of Pokémon information and their dedication to host it.
 - * [PkParaíso](https://pkparaiso.com) & [Ian Clail](https://www.smogon.com/forums/threads/sun-moon-sprite-project.3577711/) [Layell] for their lovely sprite work on over 1300 different Pokémon & Forms.
 - * [Tax](https://imgur.com/gallery/Tb82GTc) for their awesome gif work on the ball animations.
